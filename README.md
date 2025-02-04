@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Paige!
 
-I'm a **Software Developer** and **Data Scientist** specializing in:
+I'm a **Software Engineer** and **Data Scientist** specializing in:
 
 - 🌐 Web Development
 - 🤖 Machine Learning
