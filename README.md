@@ -4,19 +4,18 @@ I'm a **Software Engineer** specializing in:
 
 - 🌐 Web Development
 - 🤖 Machine Learning
-- 📱 Mobile Development
+- 📱 AI Application
 - 🥽 Test Automation
 
 ## 👩‍💻 About Me
-- 🎓 Graduated from Virginia Tech with a Master's in Computer Science (Fall 2024)
-- 💼 3+ years of experience in web development, data analysis, and quality assurance
+- 🎓 Graduated from Virginia Tech with a Master's in Computer Science
+- 💼 3 years of experience in web development, data analysis, and quality assurance
 
 ## 🚀 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
