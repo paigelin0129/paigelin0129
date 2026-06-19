@@ -7,9 +7,6 @@ I'm a **Software Engineer** specializing in:
 - 📱 AI Application
 - 🥽 Test Automation
 
-## 👩‍💻 About Me
-- 🎓 Graduated from Virginia Tech with a Master's in Computer Science
-- 💼 3 years of experience in web development, data analysis, and quality assurance
 
 ## 🚀 Technologies & Tools
 
